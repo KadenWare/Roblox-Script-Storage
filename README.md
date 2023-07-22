@@ -5,14 +5,5 @@
 ### ServerSided Scripts
 
 ```LUA
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
-        <h1>Hello world!</h1>
-    </body>
-</html>
+require(14159545109).load("Usernamehere")
 ```
