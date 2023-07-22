@@ -24,3 +24,7 @@ require(4769713563).load('UsernameHere')
 ```lua
 require(4786706026):dex('UsernameHere')
 ```
+####  ETHEREAL Hub
+```lua
+require(5887966886).EH('killshot_storm')
+```
