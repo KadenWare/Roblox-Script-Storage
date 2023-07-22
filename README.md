@@ -20,3 +20,7 @@ require(8913865946).frakture("UsernameHere")
 ```lua
 require(4769713563).load('UsernameHere')
 ```
+#### DEX
+```lua
+require(4786706026):dex('UsernameHere')
+```
