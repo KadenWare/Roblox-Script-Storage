@@ -12,3 +12,7 @@ require(2797382794).load("Usernamehere")
 ```lua
 require(8957416160).LoadAdmin("HD", "UsernameHere")
 ```
+#### FRACTURE SS
+```lua
+require(8913865946).frakture("UsernameHere")
+```
