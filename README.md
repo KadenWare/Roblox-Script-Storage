@@ -16,3 +16,7 @@ require(8957416160).LoadAdmin("HD", "UsernameHere")
 ```lua
 require(8913865946).frakture("UsernameHere")
 ```
+#### Spectrum Glitcher
+```lua
+require(4769713563).load('UsernameHere')
+```
