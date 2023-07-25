@@ -28,6 +28,10 @@ require(4786706026):dex('UsernameHere')
 ```lua
 require(5887966886).EH('killshot_storm')
 ```
+#### INFINITE YIELD SS
+```lua
+require(7634392335)("usernamehere")
+```
 
 ## ServerSided Hub Scripts
 
