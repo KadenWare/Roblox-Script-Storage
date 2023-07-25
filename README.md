@@ -2,7 +2,7 @@
 
 
 
-## ServerSided Scripts
+## ServerSided Basic Scripts
 
 #### Kermit GUI
 ```LUA
@@ -27,4 +27,11 @@ require(4786706026):dex('UsernameHere')
 ####  ETHEREAL Hub
 ```lua
 require(5887966886).EH('killshot_storm')
+```
+
+## ServerSided Hub Scripts
+
+#### Mega Hub
+```lua
+require(8804198206).load("username")
 ```
